@@ -76,3 +76,6 @@ The dashboard transforms raw student data into meaningful insights using KPI car
 
 ## Conclusion
 This project demonstrates practical implementation of data cleaning, data modeling, dashboard design, and business intelligence concepts using Power BI.
+
+<img width="940" height="526" alt="image" src="https://github.com/user-attachments/assets/8c4f15e0-ecda-4a28-932c-e8e30a9f9603" />
+
